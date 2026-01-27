@@ -1,5 +1,5 @@
 # VSOT
-**VSOT: Volume-Surface Optimization for Accu-rate Ultrastructure Analysis of Dendritic Spines**
+**VSOT: Volume-Surface Optimization for Accurate Ultrastructure Analysis of Dendritic Spines**
 
 ### Table of contents
 - [Introduction](#Introduction)
